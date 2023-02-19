@@ -13,17 +13,25 @@ author_profile: true
 
 ## Preprints
 
-1. A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems, Joint work with Jaehoom Kim, Joonkyong Lee, and Abhishek Methuku, <i>arXiv:2208.10370</i>
-2. The proper conict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
-bipartite graphs (with Jungho Ahn and Sang-il Oum), <i>arXiv:2208.08330</i>
-3. Crux, space constraints and subdivisions (with Jaehoon Kim, Younjin Kim, and Hong Liu), <i>arXiv:2207.06653</i>
+1. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Joonkyong Lee](https://sites.google.com/site/joonkyungleemaths/), and [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku)  
+<i>arXiv:2208.10370</i>
+2. [The proper conict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
+bipartite graphs](https://arxiv.org/abs/2208.08330)  
+Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
+<i>arXiv:2208.08330</i>
+3. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
+<i>arXiv:2207.06653</i>
 
 
 ## Publications
 
 ### 2016
 
-1. [On the mean square displacement of a random walk on a graph](https://www.sciencedirect.com/science/article/pii/S0195669815001262).    Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunPaeng    <i>European Journal of Combinatorics</i> 51 (2016):227-235
+1. [On the mean square displacement of a random walk on a graph](https://www.sciencedirect.com/science/article/pii/S0195669815001262).   
+Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunPaeng  
+<i>European Journal of Combinatorics</i> 51 (2016):227-235
 
 
 {% include base_path %}
