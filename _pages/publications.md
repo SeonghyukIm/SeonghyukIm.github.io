@@ -14,7 +14,7 @@ author_profile: true
 ## Preprints
 
 1. A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems, Joint work with Jaehoom Kim, Joonkyong Lee, and Abhishek Methuku, <i>arXiv:2208.10370</i>
-2. The proper conict-free <math>k</math>-coloring problem and the odd <math>k</math>-coloring problem are NP-complete on
+2. The proper conict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
 bipartite graphs (with Jungho Ahn and Sang-il Oum), <i>arXiv:2208.08330</i>
 3. Crux, space constraints and subdivisions (with Jaehoon Kim, Younjin Kim, and Hong Liu), <i>arXiv:2207.06653</i>
 
