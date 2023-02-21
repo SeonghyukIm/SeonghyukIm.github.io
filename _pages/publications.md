@@ -25,7 +25,7 @@ Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [
 <i>arXiv:2207.06653</i>
 
 
-## Publications
+## Published
 
 ### 2016
 
