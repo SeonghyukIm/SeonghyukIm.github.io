@@ -11,7 +11,7 @@ author_profile: true
 * IBS Discrite Math Seminar   
 November 29, 2022   
 A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems ([Youtube](https://www.youtube.com/watch?v=vl1CfLB7nYc))
-* KAIST Math Graduate Student seminar (KMGS)  
+* KAIST Math Graduate student Seminar (KMGS)  
 Novembeer 3, 2022  
 Large clique subdivisions in graphs without small dense subgraphs
 
