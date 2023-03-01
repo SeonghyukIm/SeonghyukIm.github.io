@@ -13,14 +13,17 @@ author_profile: true
 
 ## Preprints
 
-1. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
+1. [A bandwidth theorem for graph transversals](https://arxiv.org/abs/2302.09637)  
+Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
+<i>arXiv:2302.09637</i>
+2. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Joonkyong Lee](https://sites.google.com/site/joonkyungleemaths/), and [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku)  
 <i>arXiv:2208.10370</i>
-2. [The proper conict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
+3. [The proper conict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
 bipartite graphs](https://arxiv.org/abs/2208.08330)  
 Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
 <i>arXiv:2208.08330</i>
-3. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
+4. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
 <i>arXiv:2207.06653</i>
 
