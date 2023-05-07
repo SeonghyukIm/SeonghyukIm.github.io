@@ -27,6 +27,11 @@ Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il 
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
 <i>arXiv:2207.06653</i>
 
+#### Decide not to publish
+
+1. [Complexity of Partitioning Hypergraphs](https://aps.arxiv.org/abs/1812.09206)   
+<i>arXiv:1812.09206</i>
+
 
 ## Published
 
@@ -35,6 +40,7 @@ Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [
 1. [On the mean square displacement of a random walk on a graph](https://www.sciencedirect.com/science/article/pii/S0195669815001262).   
 Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunPaeng  
 <i>European Journal of Combinatorics</i> 51 (2016):227-235
+
 
 
 {% include base_path %}
