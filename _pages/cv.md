@@ -47,6 +47,16 @@ Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunP
 
 Talks
 ======
+### 2023
+
+* 2023 KMS Spring Meeting - Special Section: Extremal Combinatorics: Methods and Applications   
+April 29, 2023   
+A bandwidth theorem for graph transversals ([site](https://www.kms.or.kr/conference/2023_spring/program/abst_view.html?period=84&session_detail=92&num=8680))
+* Shandong University   
+March 30, 2023   
+A bandwidth theorem for graph transversals ([Bilibili](https://www.bilibili.com/video/BV1yT411s7yU/?share_source=copy_web&vd_source=f81f98d96f6ab9d00a18384510423e6e)) 
+
+
 ### 2022
 
 * IBS Discrite Math Seminar   
