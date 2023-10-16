@@ -48,7 +48,9 @@ Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunP
 Talks
 ======
 ### 2023
-
+* European Conference on Combinatorics, Graph Theory and Applications (EUROCOMB'23)   
+August 31, 2023   
+Crux, space constraints and subdivisions ([Extended abstract](https://journals.muni.cz/eurocomb/article/view/35618))
 * 2023 KMS Spring Meeting - Special Section: Extremal Combinatorics: Methods and Applications   
 April 29, 2023   
 A bandwidth theorem for graph transversals ([site](https://www.kms.or.kr/conference/2023_spring/program/abst_view.html?period=84&session_detail=92&num=8680))
@@ -81,6 +83,8 @@ Teaching
 
 ### TA works
 
+* (2023 fall) MAS 102 Calculus 1 and MAS 480 Topological methods in combinatorics at KAIST
+* (2023 spring) MAS 101 Calculus 1 and MAS 250 Discrete mathematics at KAIST
 * (2022 fall) MAS 102 Calculus 2 and MAS 477 Introduction to Graph Theory at KAIST
 * (2022 spring) MAS 102 Calculus 2 and MAS 275 Discrete mathematics at KAIST 
 * (2021 fall) MAS 102 Calculus 2 and CC511 Probability and Statistics at KAIST
