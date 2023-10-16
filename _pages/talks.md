@@ -9,6 +9,9 @@ author_profile: true
 
 ### 2023
 
+* European Conference on Combinatorics, Graph Theory and Applications (EUROCOMB'23)   
+August 31, 2023   
+Crux, space constraints and subdivisions ([Extended abstract](https://journals.muni.cz/eurocomb/article/view/35618))
 * 2023 KMS Spring Meeting - Special Section: Extremal Combinatorics: Methods and Applications   
 April 29, 2023   
 A bandwidth theorem for graph transversals ([site](https://www.kms.or.kr/conference/2023_spring/program/abst_view.html?period=84&session_detail=92&num=8680))
