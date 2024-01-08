@@ -13,6 +13,9 @@ author_profile: true
 
 ## Preprints
 
+1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and Haesong Seo   
+<i>arXiv:2312.15956</i>   
 1. [A bandwidth theorem for graph transversals](https://arxiv.org/abs/2302.09637)  
 Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
 <i>arXiv:2302.09637</i>
