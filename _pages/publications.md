@@ -13,6 +13,12 @@ author_profile: true
 
 ## Preprints
 
+1. [Dirac's theorem for linear hypergraphs](https://arxiv.org/abs/2403.14269)   
+Joint work with [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)    
+<i>arXiv.org:2403.14269</i>   
+1. [Graph with any rational density and no rich subsets of linear size](https://arxiv.org/abs/2402.13825)   
+Joint work with Suyun Jiang, [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), and [Tuan Tran](https://tuaentran.wixsite.com/homepage)    
+<i>arXiv:2402.13825</i>   
 1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and Haesong Seo   
 <i>arXiv:2312.15956</i>   
