@@ -15,5 +15,3 @@ My academic advisors are Prof. [Jaehoon Kim](https://sites.google.com/view/jaeho
 I'm also a student researcher at the [Extremal COmbinatorics and PRObability group (ECOPRO)](https://www.ibs.re.kr/ecopro/) in the Institute for Basic Science (IBS).
 
 My reserch interests lie in extremal graph theory and I'm also interested in computational complexity of graph problems.
-
-Here is my test homepage.
