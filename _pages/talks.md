@@ -32,7 +32,7 @@ A bandwidth theorem for graph transversals ([Bilibili](https://www.bilibili.com/
 * IBS Discrete Math Seminar   
 November 29, 2022   
 A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems ([Youtube](https://www.youtube.com/watch?v=vl1CfLB7nYc))
-* KAIST Math Graduate student Seminar (KMGS)  
+* KAIST Math Graduate Student Seminar (KMGS)  
 November 3, 2022  
 Large clique subdivisions in graphs without small dense subgraphs ([site](https://mathsci.kaist.ac.kr/gradseminar/notice/2022-11-03/))
 
