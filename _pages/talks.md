@@ -6,6 +6,14 @@ author_profile: true
 
 ---
 
+### 2024
+* 2024 KMS Spring Meeting - Contributed Talk   
+April 19, 2024   
+On rainbow Turán densities of trees ([site](https://www.kms.or.kr/conference/2024_spring/program/abst_view.html?period=87&session_detail=259&num=9052))   
+* Yeungnam University   
+March 18, 2024   
+Graph with any rational density and no rich subsets of linear size ([site](https://sites.google.com/view/combinatorics-seminar))   
+
 
 ### 2023
 
