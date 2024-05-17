@@ -26,7 +26,7 @@ Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [
 Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
 <i>arXiv:2302.09637</i>
 2. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
-Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Joonkyong Lee](https://sites.google.com/site/joonkyungleemaths/), and [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku)  
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/), and [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku)  
 <i>arXiv:2208.10370</i>
 3. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
 bipartite graphs](https://arxiv.org/abs/2208.08330)  
