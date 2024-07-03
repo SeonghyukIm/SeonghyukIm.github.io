@@ -7,6 +7,12 @@ author_profile: true
 ---
 
 ### 2024
+* 30th British Combinatorial Conference(BCC)   
+July 3, 2024   
+Dirac's theorem for linear hypergraphs ([site](https://www.qmul.ac.uk/maths/news-and-events/30th-british-combinatorial-conference/))
+* 31st KIAS combinatorics workshop   
+June 1, 2024   
+Dirac's theorem for linear hypergraphs ([site](https://events.kias.re.kr/h/combinatorics/?pageNo=5503))
 * 2024 KMS Spring Meeting - Contributed Talk   
 April 19, 2024   
 On rainbow Turán densities of trees ([site](https://www.kms.or.kr/conference/2024_spring/program/abst_view.html?period=87&session_detail=259&num=9052))   
