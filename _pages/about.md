@@ -18,6 +18,4 @@ My research interests lie in extremal graph theory and I'm also interested in co
 
 
 
-This summer, I'll attend the [30th BCC](https://www.qmul.ac.uk/maths/news-and-events/30th-british-combinatorial-conference/), [Summit 280](https://conferences.renyi.hu/summit280), and [9th ECM](https://www.ecm2024sevilla.com/). 
-
 From 8/22, I'll be in military boot camp for three weeks. 
