@@ -7,6 +7,12 @@ author_profile: true
 ---
 
 ### 2024
+* 9th European Congress of Mathematics(ECM) - CS-15: 04. Combinatorics and Discrete Mathematics (II)   
+July 16, 2024   
+Graph with any rational density and no rich subsets of linear size ([site](https://intranet.pacifico-meetings.com/SpeakApp/faces/listadoSesiones.xhtml?id=529))
+* Summit280   
+July 11, 2024   
+Dirac's theorem for linear hypergraphs ([site](https://conferences.renyi.hu/summit280/timetable))
 * 30th British Combinatorial Conference(BCC)   
 July 3, 2024   
 Dirac's theorem for linear hypergraphs ([site](https://www.qmul.ac.uk/maths/news-and-events/30th-british-combinatorial-conference/))
