@@ -57,6 +57,18 @@ Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunP
 Talks
 ======
 ### 2024
+* 9th European Congress of Mathematics(ECM) - CS-15: 04. Combinatorics and Discrete Mathematics (II)   
+July 16, 2024   
+Graph with any rational density and no rich subsets of linear size ([site](https://intranet.pacifico-meetings.com/SpeakApp/faces/listadoSesiones.xhtml?id=529))
+* Summit280   
+July 11, 2024   
+Dirac's theorem for linear hypergraphs ([site](https://conferences.renyi.hu/summit280/timetable))
+* 30th British Combinatorial Conference(BCC)   
+July 3, 2024   
+Dirac's theorem for linear hypergraphs ([site](https://www.qmul.ac.uk/maths/news-and-events/30th-british-combinatorial-conference/))
+* 31st KIAS combinatorics workshop   
+June 1, 2024   
+Dirac's theorem for linear hypergraphs ([site](https://events.kias.re.kr/h/combinatorics/?pageNo=5503))   
 * 2024 KMS Spring Meeting - Contributed Talk   
 April 19, 2024   
 On rainbow Turán densities of trees ([site](https://www.kms.or.kr/conference/2024_spring/program/abst_view.html?period=87&session_detail=259&num=9052))   
