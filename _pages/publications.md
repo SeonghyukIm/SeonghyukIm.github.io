@@ -13,6 +13,9 @@ author_profile: true
 
 ## Preprints
 
+1. [Sidorenko's conjecture for subdivisions and theta substitutions](https://www.arxiv.org/abs/2408.03491)   
+Joint work with Ruonan Li and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
+<i>arXiv:2408.03491</i>
 1. [Dirac's theorem for linear hypergraphs](https://arxiv.org/abs/2403.14269)   
 Joint work with [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)    
 <i>arXiv:2403.14269</i>   
@@ -25,30 +28,39 @@ Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [
 1. [A bandwidth theorem for graph transversals](https://arxiv.org/abs/2302.09637)  
 Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
 <i>arXiv:2302.09637</i>
-2. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
-Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/), and [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku)  
-<i>arXiv:2208.10370</i>
 3. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
 bipartite graphs](https://arxiv.org/abs/2208.08330)  
 Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
 <i>arXiv:2208.08330</i>
-4. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
-Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
-<i>arXiv:2207.06653</i>, An extended abstract appears in [EUROCOMB23](https://journals.muni.cz/eurocomb/article/view/35618)
 
-#### Decide not to publish
 
-1. [Complexity of Partitioning Hypergraphs](https://aps.arxiv.org/abs/1812.09206)   
-<i>arXiv:1812.09206</i>
+## To appear
+1. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
+To appear in <b>Journal of Combinatorial Theory, Series B</b>, An extended abstract appears in [EUROCOMB23](https://journals.muni.cz/eurocomb/article/view/35618)
+3. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/), and [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku)   
+To appear in <b>Forum of Mathematics, Sigma</b>
 
 
 ## Published
+
+### 2024
+1. [On the spectral radius of graphs with given maximum degree and girth](https://www.sciencedirect.com/science/article/pii/S0024379524001162)   
+Joint work with [Jiangdong Ai](https://my.nankai.edu.cn/sms/ajd/list.htm), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), [Suil O](https://sites.google.com/view/suiloh), and Liwen Zhang   
+<b>Linear Algebra and its Applications</b> vol 691, 182-195
 
 ### 2016
 
 1. [On the mean square displacement of a random walk on a graph](https://www.sciencedirect.com/science/article/pii/S0195669815001262).   
 Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunPaeng  
-<i>European Journal of Combinatorics</i> 51 (2016):227-235
+<b>European Journal of Combinatorics</b> 51 (2016):227-235
+
+
+#### Decide not to publish
+
+1. [Complexity of Partitioning Hypergraphs](https://aps.arxiv.org/abs/1812.09206)   
+<i>arXiv:1812.09206</i>
 
 
 
