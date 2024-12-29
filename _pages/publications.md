@@ -59,12 +59,6 @@ Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunP
 <b>European Journal of Combinatorics</b> 51 (2016):227-235
 
 
-#### Decide not to publish
-
-1. [Complexity of Partitioning Hypergraphs](https://aps.arxiv.org/abs/1812.09206)   
-<i>arXiv:1812.09206</i>
-
-
 
 {% include base_path %}
 
