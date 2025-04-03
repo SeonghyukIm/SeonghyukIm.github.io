@@ -6,6 +6,11 @@ author_profile: true
 
 ---
 
+### 2025
+* 4th East Asia Workshop on Extremal and Structural Graph Theory   
+March 29, 2025 at Sun-Yet Sen University (Guangzhou, China)   
+Ramsey--Dirac theory for bounded degree hypertrees ([site](https://tgt.ynu.ac.jp/2025EastAsia.html))
+
 ### 2024
 * BUPT(Beijing University for Posts and Telecommunications) workshop   
 December 15, 2024 at Hainan, China   
