@@ -19,22 +19,19 @@ Education
   
 Publications
 ======
-### Preprints
+### Preprints submitted
+1. [On high discrepancy $1$-factorizations of complete graphs](https://arxiv.org/abs/2503.17176)   
+Joint work with [Jiangdong Ai](https://my.nankai.edu.cn/sms/ajd/list.htm), Fankang He, and [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)   
+<i>arXiv:2503.17176</i>
 1. [Ramsey--Dirac theory for bounded degree hypertrees](https://arxiv.org/abs/2411.17996)   
 Joint work with [Jie Han](https://jiehan773.github.io/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and Donglei Yang   
 <i>arXiv:2411.17996</i>   
 1. [Sidorenko's conjecture for subdivisions and theta substitutions](https://www.arxiv.org/abs/2408.03491)   
 Joint work with Ruonan Li and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
 <i>arXiv:2408.03491</i>
-1. [Dirac's theorem for linear hypergraphs](https://arxiv.org/abs/2403.14269)   
-Joint work with [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)    
-<i>arXiv:2403.14269</i>   
 1. [Graph with any rational density and no rich subsets of linear size](https://arxiv.org/abs/2402.13825)   
 Joint work with Suyun Jiang, [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), and [Tuan Tran](https://tuaentran.wixsite.com/homepage)    
 <i>arXiv:2402.13825</i>   
-1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
-Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and [Haesong Seo](https://sites.google.com/view/haesongseo/home)   
-<i>arXiv:2312.15956</i>   
 1. [A bandwidth theorem for graph transversals](https://arxiv.org/abs/2302.09637)  
 Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
 <i>arXiv:2302.09637</i>
@@ -44,13 +41,22 @@ Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il 
 <i>arXiv:2208.08330</i>
 
 
-### To appear
-1. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
-Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
-To appear in <b>Journal of Combinatorial Theory, Series B</b>, An extended abstract appears in [EUROCOMB23](https://journals.muni.cz/eurocomb/article/view/35618)
+### Preprints accepted
+1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and [Haesong Seo](https://sites.google.com/view/haesongseo/home)   
+To appear in <b>Random Structures and Algorithms</b>   
+1. [Dirac's theorem for linear hypergraphs](https://arxiv.org/abs/2403.14269)   
+Joint work with [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)    
+To appear in <b>SIAM Journal on Discrete Mathematics</b>
+
 
 
 ### Published
+
+#### 2025
+1. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
+<b>Journal of Combinatorial Theory, Series B</b> 170 (2025): 82-127, An extended abstract appears in [EUROCOMB23](https://journals.muni.cz/eurocomb/article/view/35618)
 
 #### 2024
 3. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
@@ -69,6 +75,11 @@ Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunP
 
 Talks
 ======
+### 2025
+* 4th East Asia Workshop on Extremal and Structural Graph Theory   
+March 29, 2025 at Sun-Yet Sen University (Guangzhou, China)   
+Ramsey--Dirac theory for bounded degree hypertrees ([site](https://tgt.ynu.ac.jp/2025EastAsia.html))
+
 ### 2024
 * BUPT(Beijing University for Posts and Telecommunications) workshop   
 December 15, 2024 at Hainan, China   
@@ -137,8 +148,12 @@ Large clique subdivisions in graphs without small dense subgraphs ([Youtube](htt
 Teaching
 ======
 ### Teachings
+* Mini course: Finding Large Structures (with Hyunwoo Lee)   
+2025 Feb 18-21   
+Nankai University   
 
 ### TA works
+* (2025 spring) CS492 Algorithmic Graph Theory at KAIST
 * (2024 fall) MAS 477 Introduction to Graph Theory at KAIST
 * (2024 spring) MAS 275 Discrete Mathematics at KAIST
 * (2023 fall) MAS 102 Calculus 1 and MAS 480 Topological methods in combinatorics at KAIST
