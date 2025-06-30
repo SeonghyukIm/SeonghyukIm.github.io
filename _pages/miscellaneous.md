@@ -15,6 +15,10 @@ Organizing committee of [2024 KSCW](https://indico.ibs.re.kr/event/651/) (Korean
 
 ## Paper reviews
 
+### 2025 
+1 paper from EJ-C   
+1 paper from SIDMA   
+
 ### 2024
 1 paper from EJ-C
 
