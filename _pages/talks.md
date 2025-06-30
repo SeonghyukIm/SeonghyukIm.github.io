@@ -7,6 +7,12 @@ author_profile: true
 ---
 
 ### 2025
+* Discrete Analysis at Yonsei   
+June 19, 2025 at Yonsei University (Seoul, South Korea)   
+Ramsey--Dirac theory for bounded degree hypertrees ([site](https://sites.google.com/yonsei.ac.kr/days))   
+* 2025 KMS Spring Meeting   
+April 25, 2025 at KAIST (Daejeon, South Korea)   
+Spanning hypertrees in dense pseudorandom hypergraphs ([site](https://www.kms.or.kr/conference/meet/program/abst_view.html?period=89&session_detail=612&num=9695))   
 * 4th East Asia Workshop on Extremal and Structural Graph Theory   
 March 29, 2025 at Sun-Yet Sen University (Guangzhou, China)   
 Ramsey--Dirac theory for bounded degree hypertrees ([site](https://tgt.ynu.ac.jp/2025EastAsia.html))
