@@ -27,31 +27,30 @@ Joint work with Suyun Jiang, [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), 
 1. [A bandwidth theorem for graph transversals](https://arxiv.org/abs/2302.09637)  
 Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
 <i>arXiv:2302.09637</i>
-3. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
-bipartite graphs](https://arxiv.org/abs/2208.08330)  
-Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
-<i>arXiv:2208.08330</i>
 
 
 ## Preprints accepted
-1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
-Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and [Haesong Seo](https://sites.google.com/view/haesongseo/home)   
-To appear in <b>Random Structures and Algorithms</b>   
-1. [Dirac's theorem for linear hypergraphs](https://arxiv.org/abs/2403.14269)   
-Joint work with [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)    
-To appear in <b>SIAM Journal on Discrete Mathematics</b>
-
+1. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
+bipartite graphs](https://arxiv.org/abs/2208.08330)  
+Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
+To appear in <i>Discrete Applied Mathematics</i>   
 
 
 ## Published
 
 ### 2025
+1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and [Haesong Seo](https://sites.google.com/view/haesongseo/home)   
+<b>Random Structures and Algorithms</b>, 66(3), e70005   
+1. [Dirac's theorem for linear hypergraphs](https://arxiv.org/abs/2403.14269)   
+Joint work with [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)    
+<b>SIAM Journal on Discrete Mathematics</b>, 39(2), 834-847.   
 1. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
 <b>Journal of Combinatorial Theory, Series B</b> 170 (2025): 82-127, An extended abstract appears in [EUROCOMB23](https://journals.muni.cz/eurocomb/article/view/35618)
 
 ### 2024
-3. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
+1. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/), and [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku)   
 <b>Forum of Mathematics, Sigma</b> 2024;12:e75
 1. [On the spectral radius of graphs with given maximum degree and girth](https://www.sciencedirect.com/science/article/pii/S0024379524001162)   
