@@ -19,6 +19,7 @@ Education
   
 Publications
 ======
+
 ### Preprints submitted
 1. [On high discrepancy $1$-factorizations of complete graphs](https://arxiv.org/abs/2503.17176)   
 Joint work with [Jiangdong Ai](https://my.nankai.edu.cn/sms/ajd/list.htm), Fankang He, and [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)   
@@ -35,31 +36,30 @@ Joint work with Suyun Jiang, [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), 
 1. [A bandwidth theorem for graph transversals](https://arxiv.org/abs/2302.09637)  
 Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
 <i>arXiv:2302.09637</i>
-3. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
-bipartite graphs](https://arxiv.org/abs/2208.08330)  
-Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
-<i>arXiv:2208.08330</i>
 
 
 ### Preprints accepted
-1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
-Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and [Haesong Seo](https://sites.google.com/view/haesongseo/home)   
-To appear in <b>Random Structures and Algorithms</b>   
-1. [Dirac's theorem for linear hypergraphs](https://arxiv.org/abs/2403.14269)   
-Joint work with [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)    
-To appear in <b>SIAM Journal on Discrete Mathematics</b>
-
+1. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
+bipartite graphs](https://arxiv.org/abs/2208.08330)  
+Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
+To appear in <i>Discrete Applied Mathematics</i>   
 
 
 ### Published
 
 #### 2025
+1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
+Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and [Haesong Seo](https://sites.google.com/view/haesongseo/home)   
+<b>Random Structures and Algorithms</b>, 66(3), e70005   
+1. [Dirac's theorem for linear hypergraphs](https://arxiv.org/abs/2403.14269)   
+Joint work with [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)    
+<b>SIAM Journal on Discrete Mathematics</b>, 39(2), 834-847.   
 1. [Crux, space constraints and subdivisions](https://arxiv.org/abs/2207.06653)  
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Younjin Kim](https://sites.google.com/site/younjinkimsite/), and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
 <b>Journal of Combinatorial Theory, Series B</b> 170 (2025): 82-127, An extended abstract appears in [EUROCOMB23](https://journals.muni.cz/eurocomb/article/view/35618)
 
 #### 2024
-3. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
+1. [A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems](https://arxiv.org/abs/2208.10370)  
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/), and [Abhishek Methuku](https://sites.google.com/view/abhishekmethuku)   
 <b>Forum of Mathematics, Sigma</b> 2024;12:e75
 1. [On the spectral radius of graphs with given maximum degree and girth](https://www.sciencedirect.com/science/article/pii/S0024379524001162)   
@@ -75,12 +75,18 @@ Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunP
 
 Talks
 ======
-### 2025
+#### 2025
+* Discrete Analysis at Yonsei   
+June 19, 2025 at Yonsei University (Seoul, South Korea)   
+Ramsey--Dirac theory for bounded degree hypertrees ([site](https://sites.google.com/yonsei.ac.kr/days))   
+* 2025 KMS Spring Meeting   
+April 25, 2025 at KAIST (Daejeon, South Korea)   
+Spanning hypertrees in dense pseudorandom hypergraphs ([site](https://www.kms.or.kr/conference/meet/program/abst_view.html?period=89&session_detail=612&num=9695))   
 * 4th East Asia Workshop on Extremal and Structural Graph Theory   
 March 29, 2025 at Sun-Yet Sen University (Guangzhou, China)   
 Ramsey--Dirac theory for bounded degree hypertrees ([site](https://tgt.ynu.ac.jp/2025EastAsia.html))
 
-### 2024
+#### 2024
 * BUPT(Beijing University for Posts and Telecommunications) workshop   
 December 15, 2024 at Hainan, China   
 Ramsey--Dirac theory for bounded degree hypertrees
@@ -116,7 +122,7 @@ March 18, 2024 at Yeungnam University(Gyeongsan, South Korea)
 Graph with any rational density and no rich subsets of linear size ([site](https://sites.google.com/view/combinatorics-seminar))   
 
 
-### 2023
+#### 2023
 
 * European Conference on Combinatorics, Graph Theory and Applications (EUROCOMB'23)   
 August 31, 2023 Prague, Czech Republic   
@@ -128,7 +134,7 @@ A bandwidth theorem for graph transversals ([site](https://www.kms.or.kr/confere
 March 30, 2023 at Zoom   
 A bandwidth theorem for graph transversals ([Bilibili](https://www.bilibili.com/video/BV1yT411s7yU/?share_source=copy_web&vd_source=f81f98d96f6ab9d00a18384510423e6e)) 
 
-### 2022
+#### 2022
 
 * IBS Discrete Math Seminar   
 November 29, 2022 IBS(Daejeon, South Korea)   
@@ -137,7 +143,7 @@ A proof of the Elliott-Rödl conjecture on hypertrees in Steiner triple systems 
 November 3, 2022 KAIST(Daejeon, South Korea)   
 Large clique subdivisions in graphs without small dense subgraphs ([site](https://mathsci.kaist.ac.kr/gradseminar/notice/2022-11-03/))
 
-### 2021
+#### 2021
 
 * 2021 Combinatorics Workshop  
 December 21, 2021 at Yangpyeong, South Korea   
