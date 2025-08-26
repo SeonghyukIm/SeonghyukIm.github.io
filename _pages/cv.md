@@ -82,6 +82,9 @@ Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunP
 Talks
 ======
 #### 2025
+* 2025 Combinatorics workshop   
+Aug 18, 2025 at Daejeon, South Korea   
+Random perturbation of dense graphs ([site](https://cw2025.combinatorics.kr/))   
 * Discrete Analysis at Yonsei   
 June 19, 2025 at Yonsei University (Seoul, South Korea)   
 Ramsey--Dirac theory for bounded degree hypertrees ([site](https://sites.google.com/yonsei.ac.kr/days))   
