@@ -12,6 +12,12 @@ author_profile: true
 
 
 ## Preprints submitted
+1. [Perturbation of dense graphs](https://arxiv.org/abs/2508.18042)   
+Joint work with [Jie Han](https://jiehan773.github.io/), Bin Wang, and Junxue Zhang   
+<i>arXiv:2508.18042</i>   
+1. [Unbounded degree spanning hypertrees in Dirac hypergraphs](https://www.arxiv.org/abs/2508.06843)   
+Joint work with [Yaobin Chen](https://sites.google.com/view/yaobinchen/%E9%A6%96%E9%A1%B5) and Junchi Zhang   
+<i>arXiv:2508.06843</i>   
 1. [On high discrepancy $1$-factorizations of complete graphs](https://arxiv.org/abs/2503.17176)   
 Joint work with [Jiangdong Ai](https://my.nankai.edu.cn/sms/ajd/list.htm), Fankang He, and [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/)   
 <i>arXiv:2503.17176</i>
