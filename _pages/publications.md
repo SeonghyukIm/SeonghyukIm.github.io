@@ -12,6 +12,9 @@ author_profile: true
 
 
 ## Preprints submitted
+1. [An efficient algorithm for \textsc{$\mathcal{F}$-subgraph-free Edge Deletion} on graphs having a product structure](https://arxiv.org/abs/2510.14674)   
+Joint work with Shinwoo An, Seokbeom Kim, and Myounghwan Lee   
+<i>arXiv:2510.14674</i>   
 1. [Perturbation of dense graphs](https://arxiv.org/abs/2508.18042)   
 Joint work with [Jie Han](https://jiehan773.github.io/), Bin Wang, and Junxue Zhang   
 <i>arXiv:2508.18042</i>   
@@ -24,9 +27,6 @@ Joint work with [Jiangdong Ai](https://my.nankai.edu.cn/sms/ajd/list.htm), Fanka
 1. [Ramsey--Dirac theory for bounded degree hypertrees](https://arxiv.org/abs/2411.17996)   
 Joint work with [Jie Han](https://jiehan773.github.io/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), and Donglei Yang   
 <i>arXiv:2411.17996</i>   
-1. [Sidorenko's conjecture for subdivisions and theta substitutions](https://www.arxiv.org/abs/2408.03491)   
-Joint work with Ruonan Li and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
-<i>arXiv:2408.03491</i>
 1. [Graph with any rational density and no rich subsets of linear size](https://arxiv.org/abs/2402.13825)   
 Joint work with Suyun Jiang, [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), and [Tuan Tran](https://tuaentran.wixsite.com/homepage)    
 <i>arXiv:2402.13825</i>   
@@ -36,6 +36,9 @@ Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/)
 
 
 ## Preprints accepted
+1. [Sidorenko's conjecture for subdivisions and theta substitutions](https://www.arxiv.org/abs/2408.03491)   
+Joint work with Ruonan Li and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
+To appear in <i>Combinatorics, Probability and Computing</i>
 1. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
 bipartite graphs](https://arxiv.org/abs/2208.08330)  
 Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
