@@ -21,6 +21,12 @@ Publications
 ======
 
 ### Preprints submitted
+1. [The perturbation threshold of degenerate graphs](https://arxiv.org/abs/2602.21867)   
+Joint work with [Jie Han](https://jiehan773.github.io/), Bin Wang, and Junxue Zhang   
+<i>arXiv:2602.21867</i>   
+1. [Berge Hamilton cycles in a random sparsification of dense hypergraphs](https://arxiv.org/abs/2512.06675)   
+Joint work with Minseo Kim   
+<i>arXiv:2512.06675</i>   
 1. [An efficient algorithm for \textsc{$\mathcal{F}$-subgraph-free Edge Deletion} on graphs having a product structure](https://arxiv.org/abs/2510.14674)   
 Joint work with Shinwoo An, Seokbeom Kim, and Myounghwan Lee   
 <i>arXiv:2510.14674</i>   
@@ -45,17 +51,23 @@ Joint work with [Debsoumya Chakraborti](https://dimag.ibs.re.kr/home/debsoumya/)
 
 
 ### Preprints accepted
-1. [Sidorenko's conjecture for subdivisions and theta substitutions](https://www.arxiv.org/abs/2408.03491)   
-Joint work with Ruonan Li and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
-To appear in <i>Combinatorics, Probability and Computing</i>
-1. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on
-bipartite graphs](https://arxiv.org/abs/2208.08330)  
-Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
-To appear in <i>Discrete Applied Mathematics</i>   
+1. [Unbounded degree spanning hypertrees in Dirac hypergraphs](https://www.arxiv.org/abs/2508.06843)   
+Joint work with [Yaobin Chen](https://sites.google.com/view/yaobinchen/%E9%A6%96%E9%A1%B5) and Junchi Zhang   
+To appear in <i>Israel Journal of Mathematics</i>   
+
 
 ### Published
+#### 2026
+1. [Sidorenko's conjecture for subdivisions and theta substitutions](https://www.arxiv.org/abs/2408.03491)   
+Joint work with Ruonan Li and [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)   
+<b>Combinatorics, Probability and Computing</b> 35(2):269-279
+
+
 
 #### 2025
+1. [The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on bipartite graphs](https://arxiv.org/abs/2208.08330)   
+Joint work with [Jungho Ahn](https://dimag.ibs.re.kr/home/jungho/) and [Sang-il Oum](https://dimag.ibs.re.kr/home/sangil/)  
+<b>Discrete Applied Mathematics</b>, 377, 10-17   
 1. [On rainbow Turán Densities of Trees](https://arxiv.org/abs/2312.15956)   
 Joint work with [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home), [Hyunwoo Lee](https://sites.google.com/view/hyunwoo-lee/), and [Haesong Seo](https://sites.google.com/view/haesongseo/home)   
 <b>Random Structures and Algorithms</b>, 66(3), e70005   
@@ -79,6 +91,7 @@ Joint work with [Jiangdong Ai](https://my.nankai.edu.cn/sms/ajd/list.htm), [Jaeh
 1. [On the mean square displacement of a random walk on a graph](https://www.sciencedirect.com/science/article/pii/S0195669815001262).   
 Joint work with Hwidong Kim, Jiho Maeng, Jihwan Yu, Yongwook Cha, and Seong-HunPaeng  
 <b>European Journal of Combinatorics</b> 51 (2016):227-235
+
 
 
 Talks
