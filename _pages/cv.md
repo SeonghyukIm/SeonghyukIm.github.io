@@ -11,10 +11,14 @@ redirect_from:
 
 My full version of CV is [here](https://seonghyukim.github.io/files/cv.pdf)
 
+Position
+======
+* AI fellow at [Center for AI and Natural Sciences](https://www.kias.re.kr/kias/cp/centrsPgmsMng/introduction.do?centrspgmsCd=AI&menuNo=403020), Korea Advanced Institute for Advanced Study (KIAS), 2026.03-Current
+
 Education
 ======
-* Integrated master's/doctoral program, Department of Mathematical Sciences, KAIST, 2021-Current
-* B.S. in Department of Mathematical Sciences, KAIST, 2016-2020
+* Integrated master's/doctoral program, Department of Mathematical Sciences, KAIST, 2021.03-2026.02
+* B.S. in Department of Mathematical Sciences, KAIST, 2016.03-2020.08
 
   
 Publications
