@@ -12,6 +12,9 @@ author_profile: true
 
 
 ## Preprints submitted
+1. [Hitting time for Hamilton cycles in pseudorandom graphs](https://arxiv.org/abs/2603.05269)   
+Joint work with [Yaobin Chen](https://sites.google.com/view/yaobinchen/%E9%A6%96%E9%A1%B5), Yu Chen, and Yiting Wang   
+<i>arXiv:2603.05269</i>   
 1. [The perturbation threshold of degenerate graphs](https://arxiv.org/abs/2602.21867)   
 Joint work with [Jie Han](https://jiehan773.github.io/), Bin Wang, and Junxue Zhang   
 <i>arXiv:2602.21867</i>   

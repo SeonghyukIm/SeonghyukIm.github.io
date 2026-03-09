@@ -14,6 +14,7 @@ author_profile: true
 Nankai University   
 
 ## TA works
+* (2025 fall) CC511 Probability and Statistics at KAIST
 * (2025 spring) CS492 Algorithmic Graph Theory at KAIST
 * (2024 fall)  MAS 477 Introduction to graph theory at KAIST
 * (2024 spring) MAS 275 Discrete Mathematics at KAIST
