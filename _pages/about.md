@@ -19,3 +19,4 @@ I was also a student researcher at the [Extremal COmbinatorics and PRObability g
 
 My research interests lie in extremal graph theory and I'm also interested in computational complexity of graph problems. Recently, I also trying to apply AI techniques to solve combinatorial problems.
 
+Email: seonghyuk (at) kias (dot) re (dot) kr 

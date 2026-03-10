@@ -10,7 +10,7 @@ locale                   : "Kr"
 title                    : "Seonghyuk Im"
 title_separator          : "-"
 name                     : &name "Seonghyuk Im"
-description              : &description "Graduate Student of KAIST, Department of Mathematical Sciences"
+description              : &description "Postdoc of KIAS, Center for AI and Natural Sciences"
 url                      : https://seonghyukim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SeonghyukIm/SeonghyukIm.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Seonghyuk Im"
   avatar           : "profile.png"
-  bio              : "Graduate Student of KAIST"
-  location         : "Daejeon, South Korea"
+  bio              : "Postdoc of KIAS"
+  location         : "Seoul, South Korea"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "seonghyuk@kaist.ac.kr"
+  email            : "seonghyuk@kias.re.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
