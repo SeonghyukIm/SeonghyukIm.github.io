@@ -1,4 +1,7 @@
 ### 2026
+* KIAS Seminar (AI and Natural Sciences)   
+April 8, 2026 at KIAS (Seoul, South Korea)   
+Finding large structures in graphs and hypergraphs ([site](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720260330-0003&menuNo=404003&schoolsCd=&centrspgmsCd=&sdate=2026-04-08&edate=&mjrcdnm=&searchCnd=1&searchWord=&pageIndex=1))
 * 36th KIAS combinatorics workshop   
 March 14, 2026 at Seoul, South Korea   
 Embedding loose hypertrees into hypergraphs ([site](http://events.kias.re.kr/h/combinatorics/?pageNo=6196))
