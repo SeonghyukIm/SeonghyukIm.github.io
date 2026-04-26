@@ -1,4 +1,10 @@
 ### 2026
+* Hanyang University Seminar   
+April 27, 2026 at Hanyang University (Seoul, South Korea)   
+Hitting times for Hamilton cycles in random sparsifications ([site](https://math.hanyang.ac.kr/%EC%9D%BC%EC%A0%95-%EB%AA%A9%EB%A1%9D?p_p_id=kr_ac_hanyang_bbs_web_portlet_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_sTermEndValue=2026%2F04%2F26&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_sTermStartValue=2026%2F04%2F26&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_action=view_message&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_sDisplayType=1&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_messageId=182901))
+* Beijing Institute of Technology (BIT) Combinatorics Seminar   
+April 16, 2026 at Beijing Institute of Technology (Beijing, China)   
+Hitting times for Hamilton cycles in random sparsifications
 * KIAS Seminar (AI and Natural Sciences)   
 April 8, 2026 at KIAS (Seoul, South Korea)   
 Finding large structures in graphs and hypergraphs ([site](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720260330-0003&menuNo=404003&schoolsCd=&centrspgmsCd=&sdate=2026-04-08&edate=&mjrcdnm=&searchCnd=1&searchWord=&pageIndex=1))
@@ -24,7 +30,7 @@ Ramsey--Dirac theory for bounded degree hypertrees ([site](https://tgt.ynu.ac.jp
 * BUPT(Beijing University for Posts and Telecommunications) workshop   
 December 15, 2024 at Hainan, China   
 Ramsey--Dirac theory for bounded degree hypertrees
-* Beijing Institute of Technology(BIT) seminar   
+* Beijing Institute of Technology(BIT) Combinatorics Seminar   
 	December 10, 2024 at Beijing Institute of Technology(Beijing, China)   
   Almost spanning hypertrees in a Steiner triple system
 * 2024 KMS Annual Meeting - Special Section: Recent developments in combinatorics   
