@@ -1,6 +1,9 @@
 ## Preprints submitted
+1. [Note on the codegree version of the Erdős--Ko--Rado theorem](https://arxiv.org/abs/2605.17945)   
+Joint work with [Luyining Gan](http://elainegan-2020.github.io/) and [Jie Han](https://jiehan773.github.io/)   
+<i>arXiv:2605.17945</i>   
 1. [Hitting time for Hamilton cycles in pseudorandom graphs](https://arxiv.org/abs/2603.05269)   
-Joint work with [Yaobin Chen](https://sites.google.com/view/yaobinchen/%E9%A6%96%E9%A1%B5), Yu Chen, and Yiting Wang   
+Joint work with [Yaobin Chen](https://sites.google.com/view/yaobinchen/%E9%A6%96%E9%A1%B5), Yu Chen, and [Yiting Wang](https://sites.google.com/view/yiting-wang/)   
 <i>arXiv:2603.05269</i>   
 1. [The perturbation threshold of degenerate graphs](https://arxiv.org/abs/2602.21867)   
 Joint work with [Jie Han](https://jiehan773.github.io/), Bin Wang, and Junxue Zhang   
@@ -9,7 +12,7 @@ Joint work with [Jie Han](https://jiehan773.github.io/), Bin Wang, and Junxue Zh
 Joint work with Minseo Kim   
 <i>arXiv:2512.06675</i>   
 1. [An efficient algorithm for \textsc{$\mathcal{F}$-subgraph-free Edge Deletion} on graphs having a product structure](https://arxiv.org/abs/2510.14674)   
-Joint work with Shinwoo An, Seokbeom Kim, and Myounghwan Lee   
+Joint work with [Shinwoo An](https://www.shinwooan.com/home), [Seokbeom Kim](https://dimag.ibs.re.kr/home/seokbeom/), and Myounghwan Lee   
 <i>arXiv:2510.14674</i>   
 1. [Perturbation of dense graphs](https://arxiv.org/abs/2508.18042)   
 Joint work with [Jie Han](https://jiehan773.github.io/), Bin Wang, and Junxue Zhang   
