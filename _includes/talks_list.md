@@ -1,4 +1,7 @@
 ### 2026
+* International Conference for the 80th Anniversary of the Korean Mathematical Society   
+June 24, 2026 at Seoul, South Korea   
+The perturbation threshold of degenerate graphs ([site](https://www.kms.or.kr/conference/abstract/search_view.html?num=10334&uid=91&start=0&sort=sortDate&period=91&cate=(DM)%20Discrete%20Mathematics&etitle=&key_word=&au_name=&au_ename=&au_office=&au_eoffice=&mode=search&section=Contributed%20Talk))
 * Hanyang University Seminar   
 April 27, 2026 at Hanyang University (Seoul, South Korea)   
 Hitting times for Hamilton cycles in random sparsifications ([site](https://math.hanyang.ac.kr/%EC%9D%BC%EC%A0%95-%EB%AA%A9%EB%A1%9D?p_p_id=kr_ac_hanyang_bbs_web_portlet_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_sTermEndValue=2026%2F04%2F26&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_sTermStartValue=2026%2F04%2F26&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_action=view_message&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_sDisplayType=1&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_messageId=182901))
