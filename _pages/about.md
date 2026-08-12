@@ -10,7 +10,7 @@ redirect_from:
 
 ![photo of my presentation at IBS](https://seonghyukim.github.io/files/image_me.png)
 
-Hello, I'm Seonghyuk Im, AI fellow at [Center for AI and Natural Sciences](https://www.kias.re.kr/kias/cp/centrsPgmsMng/introduction.do?centrspgmsCd=AI&menuNo=403020) in the Korea Advanced Institute for Advanced Study (KIAS). 'Im' is my family name.
+Hello, I'm Seonghyuk Im, AI fellow at [Center for AI and Natural Sciences](https://www.kias.re.kr/kias/cp/centrsPgmsMng/introduction.do?centrspgmsCd=AI&menuNo=403020) in the Korea Institute for Advanced Study (KIAS). 'Im' is my family name.
 
 Before I joined KIAS, I was a Ph.D. student in the [Department of Mathematical Sciences](http://mathsci.kaist.ac.kr/) at KAIST, supervised by Prof. [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim/home) and Prof. [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/).
 
