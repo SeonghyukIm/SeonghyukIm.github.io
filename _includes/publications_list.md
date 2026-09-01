@@ -1,4 +1,7 @@
 ## Preprints submitted
+1. [On the enumeration of polymatroids](https://arxiv.org/abs/2608.18225)   
+Joint work with [Donggyu Kim](https://sites.google.com/view/donggyu-kim)   
+<i>arXiv:2608.18225</i>   
 1. [Note on the codegree version of the Erdős--Ko--Rado theorem](https://arxiv.org/abs/2605.17945)   
 Joint work with [Luyining Gan](http://elainegan-2020.github.io/) and [Jie Han](https://jiehan773.github.io/)   
 <i>arXiv:2605.17945</i>   
