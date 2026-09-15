@@ -1,4 +1,7 @@
 ## Preprints submitted
+1. [Bipodal optimizers in the upper-tail variational problem for regular subgraph densities](https://arxiv.org/abs/2609.15222)   
+Joint work with Sangho Lim, Taeyoung Kim, [Kyeongsik Nam](https://sites.google.com/view/ksnam), and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home)   
+<i>arXiv:2609.15222</i>   
 1. [On the enumeration of polymatroids](https://arxiv.org/abs/2608.18225)   
 Joint work with [Donggyu Kim](https://sites.google.com/view/donggyu-kim)   
 <i>arXiv:2608.18225</i>   
