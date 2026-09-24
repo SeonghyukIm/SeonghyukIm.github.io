@@ -1,4 +1,7 @@
 ## Preprints submitted
+1. [A New Upper Bound for the Turán Density of the Tetrahedron](https://arxiv.org/abs/2609.27495)   
+Joint work with Gyeongwon Jeong, Seonghun Park, [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/), and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home)   
+<i>arXiv:2609.27495</i>   
 1. [Bipodal optimizers in the upper-tail variational problem for regular subgraph densities](https://arxiv.org/abs/2609.15222)   
 Joint work with Sangho Lim, Taeyoung Kim, [Kyeongsik Nam](https://sites.google.com/view/ksnam), and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home)   
 <i>arXiv:2609.15222</i>   
