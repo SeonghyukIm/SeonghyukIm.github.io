@@ -1,4 +1,7 @@
 ## Preprints submitted
+1. [Goodman-type lower bounds for odd cycles I: The dense regime](https://arxiv.org/abs/2610.18277)   
+Joint work with Taeyoung Kim and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home)   
+<i>arXiv:2610.18277</i>   
 1. [A New Upper Bound for the Turán Density of the Tetrahedron](https://arxiv.org/abs/2609.27495)   
 Joint work with Gyeongwon Jeong, Seonghun Park, [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/), and [Hongseok Yang](https://sites.google.com/view/hongseokyang/home)   
 <i>arXiv:2609.27495</i>   
